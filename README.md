@@ -6,32 +6,28 @@ The DU Extension is designed to enhance your experience while using the DU platf
 
 ## Data Collection
 
-The DU Extension may collect the following types of data:
+When you use the DU Extension, we may collect the following types of information:
 
-1. **User Input Data**: Information you provide when using the extension, such as filenames, original values, and new values during editing sessions.
-2. **Edit History**: The extension stores a history of your edits, including project names, field names, and timestamps, to provide you with a better user experience.
-3. **File Tags**: Tags associated with files are stored to help you organize and manage your documents effectively.
+- **User Input Data**: We collect data that you input into the extension, such as filenames, field names, original values, and new values. This data is used to track changes and maintain an edit history.
+- **Edit History**: The extension stores a history of edits made by users, including project names, filenames, field names, original values, new values, timestamps, and any associated tags.
+- **File Tags**: Users can create and manage tags associated with files. These tags are stored locally and can be retrieved for display.
+- **Storage Data**: We utilize Chrome's local storage to save user preferences, edit history, and file mappings. This data is stored on your device and is not shared with third parties.
 
-## Data Usage
+## How We Use Your Information
 
-The data collected by the DU Extension is used for the following purposes:
+We use the information we collect for the following purposes:
+- To provide and maintain the functionality of the DU Extension.
+- To track and display edit history for user reference.
+- To allow users to manage and organize their files with tags.
+- To improve the user experience by personalizing content and features.
 
-- **Enhancing User Experience**: We use your edit history and file tags to improve the functionality of the extension and provide personalized features.
-- **Data Export**: You can export your edit history and file tags in various formats (JSON, CSV) for your convenience.
-- **Storage Management**: The extension allows you to manage your storage by providing options to clear mappings and download your storage data.
+## Data Sharing and Disclosure
 
-## Data Sharing
-
-The DU Extension does not share your personal data with third parties without your explicit consent, except in the following circumstances:
-
-- **Legal Compliance**: We may disclose your information if required to do so by law or in response to valid requests by public authorities.
+We do not sell, trade, or otherwise transfer your personal information to outside parties. Your data is stored locally on your device and is not transmitted to our servers or any third-party services.
 
 ## Data Security
 
-We take the security of your data seriously. The DU Extension implements various security measures to protect your information from unauthorized access, alteration, disclosure, or destruction. This includes:
-
-- **Secure Storage**: Your data is stored securely using Chrome's storage API, which is designed to protect user data.
-- **Limited Access**: Only authorized components of the extension can access your data.
+We implement a variety of security measures to maintain the safety of your personal information. However, please be aware that no method of transmission over the internet or method of electronic storage is 100% secure. While we strive to protect your information, we cannot guarantee its absolute security.
 
 ## User Rights
 
@@ -47,7 +43,7 @@ We may update this Data Privacy Policy from time to time. Any changes will be co
 
 ## Contact Us
 
-If you have any questions or concerns about this Data Privacy Policy or our data practices, please contact us at [support@example.com].
+If you have any questions or concerns about this Data Privacy Policy or our data practices, please contact us at flymemory@qq.com.
 
 ---
 
