@@ -13,7 +13,7 @@ The DU Extension may collect the following types of information. The data is sto
 - **File Tags**: Users can create and manage tags associated with files. These tags are stored locally and can be retrieved for display.
 - **Storage Data**: The extension utilizes Chrome's local storage to save user preferences, edit history, and file mappings. This data is stored on your device and is not shared with third parties.
 
-## How We Use Your Information
+## How Your Information is Used
 
 The DU Extension uses the collected information for the following purposes:
 - To provide and maintain the functionality of the DU Extension.
@@ -41,7 +41,7 @@ As a user of the DU Extension, you have the following rights regarding your data
 
 The DU Extension may update this Data Privacy Policy from time to time. Any changes will be communicated through the extension or via email. Users are encouraged to review this policy periodically for the latest information on privacy practices.
 
-## Contact Us
+## Contact Information
 
 If you have any questions or concerns about this Data Privacy Policy or the extension's data practices, please contact flymemory@qq.com.
 
